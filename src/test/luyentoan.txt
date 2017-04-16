@@ -1,0 +1,13 @@
+
+cau 1: 874 : 9 =0 dap an 97
+cau 2: 646 : 9 =0 dap an 71
+so cau tra loi 2 cau, dung: 0 ,sai :2
+cau 1: 21 x 4 =54 dap an 84
+so cau tra loi 1 cau, dung: 0 ,sai :1
+cau 1: 615 : 4 =0 dap an 153
+cau 2: 8374 + 3452 =1000 dap an 11826
+cau 3: 113 : 5 =1000 dap an 22
+cau 1: 2122 + 6660 =09 dap an 8782
+so cau tra loi 2 cau, dung: 0 ,sai :1
+cau 1: 4751 + 4376 =12 dap an 9127
+so cau tra loi 1 cau, dung: 0 ,sai :1
